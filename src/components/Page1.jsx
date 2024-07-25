@@ -4,8 +4,8 @@ import { IoMdArrowDroprightCircle } from "react-icons/io";
 
 const Page1 = () => {
   return (
-    <section className="w-full h-screen bg-[#405D72] px-5 py-10">
-      <div className="relative w-full h-[450px] bg-[#5F264A] shadow-lg shadow-black text-white text-xl p-5 flex flex-col items-center">
+    <section className="w-full h-screen bg-[#A94438] px-5 py-10">
+      <div className="relative w-full h-[450px] bg-[#1F2544] shadow-lg shadow-black text-white text-xl p-5 flex flex-col items-center rounded-sm">
         <p className="py-5 font-semibold text-center w-full">
           კი ჩემო მარწყვუნა, სხვა სახელი არც იმუშავებდა
         </p>
